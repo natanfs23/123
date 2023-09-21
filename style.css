@@ -1,0 +1,30 @@
+*{
+    margin: 200;
+    padding: 200;
+}
+body{
+    background-color: rgb(227, 230, 229);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    box-sizing: border-box;
+    background-color: white;
+}
+.container{
+    text-align: center;
+    background-color: rgb(122, 122, 122);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    text-align: left;
+}
+img{
+    margin: auto;
+    display: block;
+}
+img {
+    width: 20%;
+    margin: auto;
+    display: block;
+  }
